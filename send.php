@@ -24,14 +24,26 @@
 	
 	
 	// المعلومات التي يجب ملئها
-	
-	$FirstTimeSetup = false; // فقط عند استخدام النظام اول مرة لتثبت المتغييرات واعطاءها لك للتسهيل عليك
-	$DomainOrIP = '0'; // اكتب ايبي خادمك , او اذا عندك دومين
-	$SSL = false; // تشغلها فقط لو عندك شهادة حماية اس اس ال
-	$DefaultIconURL = "https://media.discordapp.net/attachments/870376559742156810/1021763678271447141/m3lmlogo.png"; // الصورة الديفولت اذا ما تم ارسال صورة
-	$DefaultColor = 3145472; // اللون الديفولت اذا ما تم ارسال لون
-	$DefaultBotName = "Logs System"; // الاسم الديفولت اذا ما تم ارسال اسم للبوت
-	
+// Information that should be filled in:
+
+$FirstTimeSetup = false; // فقط عند استخدام النظام اول مرة لتثبت المتغييرات واعطاءها لك للتسهيل عليك
+// Only when using the system for the first time to initialize variables and provide them to you for ease.
+
+$DomainOrIP = '0'; // اكتب ايبي خادمك , او اذا عندك دومين
+// Write your server's IP or if you have a domain.
+
+$SSL = false; // تشغلها فقط لو عندك شهادة حماية اس اس ال
+// Enable it only if you have an SSL certificate.
+
+$DefaultIconURL = "https://media.discordapp.net/attachments/870376559742156810/1021763678271447141/m3lmlogo.png"; // الصورة الديفولت اذا ما تم ارسال صورة
+// Default image if no image is sent.
+
+$DefaultColor = 3145472; // اللون الديفولت اذا ما تم ارسال لون
+// Default color if no color is sent.
+
+$DefaultBotName = "Logs System"; // الاسم الديفولت اذا ما تم ارسال اسم للبوت
+// Default name if no name is sent.
+
 	
 	
 	
