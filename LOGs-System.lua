@@ -1,6 +1,7 @@
--- قم بوضع اللوقات الخاصة بك كاملة 
+-- ar: قم بوضع اللوقات الخاصة بك كاملة 
+-- en: Put your webhooks in this way:
 
--- مثال :
+-- For Example :
 
 URL1 = "https://discord.com/api/webhooks/870067491475439706/p4BxrbI3fI3YZuw3MY9DvLgB7Qr43LbpoXpdI7Zb_fD4UB_0k-AGLLE2c7AyNQhqjYf2", -- ايداع بنكي
 URL2 = "https://discord.com/api/webhooks/870067491475439706/p4BxrbI3fI3YZuw3MY9DvLgB7Qr43LbpoXpdI7Zb_fD4UB_0k-AGLLE2c7AyNQhqjYf2", -- سحب بنكي
