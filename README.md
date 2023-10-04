@@ -4,7 +4,7 @@ Simple PHP code to impose an IP restriction on Discord Webhooks.
 # Usage
 
 ## Arabic tutorial:
-- [Youtube](https://youtube.com)
+- [Youtube](https://youtu.be/HiG_5YvFEhE)
 
 ## English tutorial:
 - Download the discord folder to your environment, such as Apache -> htdocs.
